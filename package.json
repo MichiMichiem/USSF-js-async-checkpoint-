@@ -1,0 +1,24 @@
+{
+  "name": "ussf-js-async-checkpoint-",
+  "version": "1.0.0",
+  "description": "SDI asyn pokemon example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichiMichiem/USSF-js-async-checkpoint-.git"
+  },
+  "keywords": [],
+  "author": "Michelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichiMichiem/USSF-js-async-checkpoint-/issues"
+  },
+  "homepage": "https://github.com/MichiMichiem/USSF-js-async-checkpoint-#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {}
+}
